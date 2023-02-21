@@ -1,0 +1,25 @@
+     #text{
+
+      color: red;
+    margin: 15px 0;
+    padding: 20px;
+    background-color: blue;
+    width: 80%;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: fantasy;
+    font-style: italic;
+    text-align: center;
+
+      }
+
+  #button{
+    padding: 15px;
+    color: white;
+    background-color: red;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: bold;
+    border-radius: 5px;
+    border-color: white;
+  }
